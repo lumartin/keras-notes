@@ -3,3 +3,5 @@
 /ConvNets/data
 /ConvNets/mini
 /ConvNets/*.h5
+/ConvNets/aclImdb
+/ConvNets/glove
