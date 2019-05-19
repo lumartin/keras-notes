@@ -1,7 +1,9 @@
 /ConvNets/.ipynb_checkpoints
+&Recurrent/.ipynb_checkpoints
 /.ipynb_checkpoints
 /ConvNets/data
 /ConvNets/mini
 /ConvNets/*.h5
 /ConvNets/aclImdb
 /ConvNets/glove
+/Recurrent/data
